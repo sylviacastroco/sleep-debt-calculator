@@ -22,7 +22,7 @@ const getSleepHours = day => {
        return 8
        break;
      default:
-       return "Error!""
+       return "Error!"
    }
 }
 
